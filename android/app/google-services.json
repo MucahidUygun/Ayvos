@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "791547031183",
+    "project_id": "smineorj",
+    "storage_bucket": "smineorj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791547031183:android:8da77cd5cff9f200a68afa",
+        "android_client_info": {
+          "package_name": "com.ayvos.external.cortes.mobile.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791547031183-erb6q9trgppki0i7bvgtf2g2r4i7ong0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayvos.external.cortes.mobile.app",
+            "certificate_hash": "3275b96ccf57d7f55cc25467595521e072010cf3"
+          }
+        },
+        {
+          "client_id": "791547031183-hvfh5im4rmdbic9b6k7q86uuun9kpdnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInXhMVptE4VPkzEfcMUYklBDceaPnABI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791547031183-hvfh5im4rmdbic9b6k7q86uuun9kpdnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
